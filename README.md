@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ardianxy/ardianxy.github.io">
-    <img src="https://avatars.githubusercontent.com/u/100776524" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/180677032?s" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
